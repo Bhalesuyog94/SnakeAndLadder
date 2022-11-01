@@ -1,0 +1,15 @@
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\obj\Debug\net6.0\ShankeAndLadder.csproj.AssemblyReference.cache
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\obj\Debug\net6.0\ShankeAndLadder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\obj\Debug\net6.0\ShankeAndLadder.AssemblyInfoInputs.cache
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\obj\Debug\net6.0\ShankeAndLadder.AssemblyInfo.cs
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\obj\Debug\net6.0\ShankeAndLadder.csproj.CoreCompileInputs.cache
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\bin\Debug\net6.0\ShankeAndLadder.exe
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\bin\Debug\net6.0\ShankeAndLadder.deps.json
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\bin\Debug\net6.0\ShankeAndLadder.runtimeconfig.json
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\bin\Debug\net6.0\ShankeAndLadder.dll
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\bin\Debug\net6.0\ShankeAndLadder.pdb
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\obj\Debug\net6.0\ShankeAndLadder.dll
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\obj\Debug\net6.0\refint\ShankeAndLadder.dll
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\obj\Debug\net6.0\ShankeAndLadder.pdb
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\obj\Debug\net6.0\ShankeAndLadder.genruntimeconfig.cache
+C:\Users\Syuog\source\repos\ShankeAndLadder\ShankeAndLadder\obj\Debug\net6.0\ref\ShankeAndLadder.dll
